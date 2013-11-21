@@ -882,7 +882,6 @@
           toggle: true,
           title: 'Preview',
           btnText: 'Preview',
-          btnClass: 'btn btn-primary btn-sm',
           icon: 'fa fa-search',
           callback: function(e){
             // Check the preview mode and toggle based on this flag
